@@ -8,6 +8,7 @@ class NeoflexProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
